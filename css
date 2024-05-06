@@ -1,0 +1,14 @@
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+}
+
+input[type="text"] {
+width: 75%;
+margin: 0 0 10px;
+}
+
+button {
+width: 100%;
+ margin: 10px 0;
+}
